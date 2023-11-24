@@ -1,6 +1,6 @@
 
 
-## Projeto de Laboratório de Análise em Dados de RH - Power BI.
+## Projeto de Laboratório de Análise em Dados Financeiros - Power BI.
 
 Microsoft Power BI Para Business Intelligence e Data Science
 
