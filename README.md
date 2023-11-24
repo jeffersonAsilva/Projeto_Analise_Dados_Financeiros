@@ -6,34 +6,32 @@ Microsoft Power BI Para Business Intelligence e Data Science
 
 ## Introdução
 
-A área de Recursos Humanos (RH) tem como função principal gerenciar e administrar as 
-atividades relacionadas ao pessoal de uma empresa, a fim de promover o desenvolvimento
- e a  satisfação dos funcionários e, consequentemente, contribuir para o sucesso da 
- organização.
+A área de finanças é fundamental para o sucesso de uma empresa, pois é responsável 
+por  gerenciar  os  recursos  financeiros  da  organização  e  garantir  que  esses  recursos  sejam 
+utilizados de forma eficiente e eficaz para alcançar os objetivos da empresa.
 
 ## Objetivo
 
 Nosso objetivo será realizar um extenso trabalho de análise nos dados, e 
 responder algumas perguntas.
 
-1 Qual o total de funcionários atualmente na empresa?
+1 Total de Receitas?
 
-2 Qual otempo médio de experiência dos funcionários (em anos)?
+2 Total de Despesas?
 
-3 Qual o total e percentual de funcionários do gênero masculino e feminino?
+3 Margem de Lucro?
 
-4 Qual a média salarial mensal?
+4 Total de Receitas por Componentes?
 
-5 Qual o total de funcionários por função?
+5 Total de Despesas por Componentes em relação a média de Despesas?
 
-6 Qual o percentual de funcionários disponíveis para fazer hora extra?
-
-7 Qual o nível de envolvimento dos funcionários no trabalho considerando 
-4 categorias :  Ruim, Baixo, Médio e Alto?
+6 Total  de  Receitas e  Despesas Por  Componente  e  Por  Ano ,com  a  hierarquia Tipo/Componente.?
 
 
 
-<img src="https://github.com/jeffersonAsilva/Projeto_Analise_de_Dados_RH/blob/main/img.PNG">
+
+
+<img src="https://github.com/jeffersonAsilva/Projeto_Analise_Dados_Financeiros/blob/main/img8.PNG">
 
 
 
